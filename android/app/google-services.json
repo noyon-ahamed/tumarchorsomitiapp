@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874436976850",
+    "project_id": "saifulfoundation-8d1fc",
+    "storage_bucket": "saifulfoundation-8d1fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874436976850:android:361a6684b78624b8698d0b",
+        "android_client_info": {
+          "package_name": "com.syntfyit.tumarchorsomiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874436976850-0s7na18kcbrd1tta9a601m8bapp03tcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syntfyit.tumarchorsomiti",
+            "certificate_hash": "1382567a4dcfa27bc7f028dad8d0b70341261ce9"
+          }
+        },
+        {
+          "client_id": "874436976850-3in3ogi4juoq6ehtugui0snfrrfufnpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sY9kXCbRyP773wqfYpcbpGAjAwSxmvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874436976850-3in3ogi4juoq6ehtugui0snfrrfufnpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
